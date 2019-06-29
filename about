@@ -27,12 +27,12 @@
 <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#menu" aria-expanded="false">...</button>
 <a class="navbar-brand" href="index.html">IG-Liker</a>
 </div><div class="collapse navbar-collapse" id="menu"><ul class="nav navbar-nav navbar-right">
-<li class="active"><a href="#">Home</a>
-</li><li><a href="about">About</a></li><li><a href="instagram.html">Privacy Policy</a></li>
+<li class="active"><a href="index.html">Home</a>
+</li><li><a href="about.html">About</a></li><li><a href="instagram.html">Privacy Policy</a></li>
 <li><a href="instagram.html">Terms Of Use</a></li><li><a href="instagram.html">Contact Us</a></li></ul></div></div></nav>
 <br><div class="container"><br><br><div class="row"></div>
-<div class="jumbotron"><div class="row centered"><h1><b>You need to log in to IG-Liker to see more!</b></b></h1>
-<b>Log in </b><a href="index.html"><b> HERE</b></a><b>  to access all the content and tools on our website!</b></div></div>
+<div class="jumbotron"><div class="row centered"><h1><b>About</b></b></h1>
+<p>IG-Liker is an open-source project created by a team of five developers at IG-Liker Inc. We are always busy finding new, innovative ways to produce growth on social media accounts ( whether it be real or artificial). Now you may be wondering, "How are these [mildly] shady people who I don't even know actually making money off of this?" Well, we don't. This is more of a hobby than anything for us. We are just a group of IT guys with some time left over on our hands for spare projects here and there. You might still be thinking that we are pretty shady, and you can think that. It's fine. We're not offended. We don't expect you to trust us completely. And you shouldn't just go trusting every random group of developers on the internet. It's a healthy habit not to. It keeps your computers alive. But, we're all legitimate people here, and trust us or not, try out the tool. It's a lot of fun to see your friends flip out wondering how you got so many followers. And we don't store or even see any information you give to  Instagram. Try getting more followers today!</p></div></div>
 <hr><div class="row centered"><div class="col-lg-4">
 <br><hr><p class="text-center">Copyright &copy; 2019 <a href="index.html">IG-Liker Inc</a>. All Rights Reserved.</p></div></div>
 <script src="../ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
